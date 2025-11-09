@@ -85,7 +85,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 🖼️ Demo
 
 ### 🔗 Live Demo
-
+https://goldlion123rp.github.io/AI-Health-Adviser/
 
 ---
 **Stay Healthy! 💪🏥**
