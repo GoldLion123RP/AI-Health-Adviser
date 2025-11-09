@@ -70,10 +70,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 RAHUL PAL
 
-## Screenshots
-
-[You can add screenshots of the application here]
-
 ## Future Enhancements
 
 - Machine learning-based diagnosis
