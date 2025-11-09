@@ -62,10 +62,6 @@ You can easily modify:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-[Specify your license here, e.g., MIT License]
-
 ## Author
 
 RAHUL PAL
